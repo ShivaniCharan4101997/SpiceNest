@@ -51,20 +51,20 @@ Includes product browsing, search, category filtering, cart management, checkout
 
 ### Home Page
 
-![Home](screenshots/home.PNG)
+![Home](./src/screenshots/home.PNG)
 
 ### Shop Page
 
-![Shop](screenshots/shop.PNG)
+![Shop](.src/screenshots/shop.PNG)
 
 ### Checkout Modal
 
-![Checkout](screenshots/checkout.PNG)
+![Checkout](.src/screenshots/checkout.PNG)
 
 ### Cart Page
 
-![Cart](screenshots/cart.PNG)
+![Cart](.src/screenshots/cart.PNG)
 
 ### Order Success Page
 
-![Order Success](screenshots/success.PNG)
+![Order Success](.src/screenshots/success.PNG)
