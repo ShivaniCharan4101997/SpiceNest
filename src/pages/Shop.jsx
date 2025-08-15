@@ -29,8 +29,8 @@ const Shop = () => {
         const res = await fetch("https://dummyjson.com/products/categories");
         const data = await res.json();
         setCategories(data);
-      } catch (err) {
-        console.error("Error fetching categories:", err);
+      } catch (error) {
+        console.error("Error fetching categories:", error);
       }
     };
     fetchCategories();
