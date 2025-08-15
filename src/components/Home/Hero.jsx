@@ -4,7 +4,7 @@ const Hero = () => {
       <div className="relative h-screen">
         {/* Background Image */}
         <img
-          src="/images/img1.jpg"
+          src="/images/img1.webp"
           alt="SpiceNest hero banner"
           className="w-full h-full object-cover"
         />

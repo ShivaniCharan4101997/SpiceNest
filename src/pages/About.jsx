@@ -12,7 +12,7 @@ const About = () => {
           viewport={{ once: true }}
         >
           <img
-            src="/images/about.jpg"
+            src="/images/about.webp"
             alt="About SpiceNest"
             className="rounded-xl shadow-lg object-cover w-full h-full"
           />
